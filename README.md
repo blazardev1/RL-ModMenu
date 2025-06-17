@@ -4,7 +4,7 @@
 
 > **⚠️ DISCLAIMER:** This project is for educational purposes only. Use responsibly.
 
-![In-game Interface](https://imgur.com/a/dLUe2QK.png)
+![In-game Interface](https://imgur.com/a/dLUe2QK)
 
 ## 📋 Project Overview
 
