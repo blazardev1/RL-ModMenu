@@ -4,7 +4,7 @@
 
 > **⚠️ DISCLAIMER:** This project is for educational purposes only. Use responsibly.
 
-![KingMod Preview](https://app.screenclip.com/FxUb)
+![KingMod Preview](https://imgur.com/a/dLUe2QK.png)
 
 ## 📋 Project Overview
 
