@@ -4,7 +4,7 @@
 
 > **⚠️ DISCLAIMER:** This project is for educational purposes only. Use responsibly.
 
-![KingMod Preview](https://jmp.sh/s/Imbtvk68Ph5RIAKGNc8s)
+![KingMod Preview](https://app.screenclip.com/FxUb)
 
 ## 📋 Project Overview
 
