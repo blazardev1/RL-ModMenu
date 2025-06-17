@@ -4,7 +4,7 @@
 
 > **⚠️ DISCLAIMER:** This project is for educational purposes only. Use responsibly.
 
-[![KingMod Preview](C:\Users\M\Videos\Radeon ReLive\Rocket League)](C:\Users\M\Videos\Radeon ReLive\Rocket League)
+[![KingMod Preview](https://imgur.com/a/dLUe2QK)
 
 ## 📋 Project Overview
 
