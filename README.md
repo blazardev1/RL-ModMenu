@@ -4,7 +4,7 @@
 
 > **⚠️ DISCLAIMER:** This project is for educational purposes only. Use responsibly.
 
-![KingMod Preview](https://i.imgur.com/abcd123.png)
+![KingMod Preview](https://imgur.com/a/tzsEnPW.png)
 
 ## 📋 Project Overview
 
