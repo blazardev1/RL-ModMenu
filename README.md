@@ -4,7 +4,7 @@
 
 > **⚠️ DISCLAIMER:** This project is for educational purposes only. Use responsibly.
 
-![KingMod Preview](https://user-images.githubusercontent.com/72645298/234754559-16e1872c-6e7b-4c30-8e31-c2acf1dd5d4d.png)
+![KingMod Preview]([https://user-images.githubusercontent.com/72645298/234754559-16e1872c-6e7b-4c30-8e31-c2acf1dd5d4d.png](https://imgur.com/a/tzsEnPW))
 
 ## 📋 Project Overview
 
