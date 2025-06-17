@@ -1,0 +1,70 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+x64/
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# Project files
+*.vcxproj.user
+
+# Debug files
+errors.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Documentation
+*.chm
+*.hlp
+
+# Local settings
+*.user
+*.userosscache
+
+# IDE specific
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+x64/
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# Debug files
+errors.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation
+*.chm
+*.hlp
+
+# Local settings
+*.user
+*.userosscache
